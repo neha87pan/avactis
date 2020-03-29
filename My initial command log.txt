@@ -1,0 +1,17 @@
+Neha@DESKTOP-3QRKRQS MINGW64 ~
+$ pwd
+/c/Users/Neha
+
+Neha@DESKTOP-3QRKRQS MINGW64 ~
+$ cd LearningGit/avactis
+
+Neha@DESKTOP-3QRKRQS MINGW64 ~/LearningGit/avactis
+$ git status
+fatal: not a git repository (or any of the parent directories): .git
+
+Neha@DESKTOP-3QRKRQS MINGW64 ~/LearningGit/avactis
+$ git init
+Initialized empty Git repository in C:/Users/Neha/LearningGit/avactis/.git/
+
+Neha@DESKTOP-3QRKRQS MINGW64 ~/LearningGit/avactis (master)
+$
